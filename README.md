@@ -45,4 +45,18 @@ python tools/run_net.py --cfg ../experiments/I3D/configs/test/R50_hands_obj_32x4
 You can ask questions by openning up an issue. Thank you!
 
 
+
+```
+@INPROCEEDINGS{9767447,
+  author={Shahi, Soroush and Alharbi, Rawan and Gao, Yang and Sen, Sougata and Katsaggelos, Aggelos K and Hester, Josiah and Alshurafa, Nabil},
+  booktitle={2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)}, 
+  title={Impacts of Image Obfuscation on Fine-grained Activity Recognition in Egocentric Video}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={341-346},
+  doi={10.1109/PerComWorkshops53856.2022.9767447}}
+```
+
+
  
