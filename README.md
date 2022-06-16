@@ -23,7 +23,7 @@ For those frames where the hand is not visible, the obfuscated image is basicall
 #### splits
 We removed some of the classes that didn't deal with objects in hand (e.g., fridge) and merged similar ones. Use the splits that we provided located at 'dataset_prep/splits'
 
-## Training And Testing
+## Training and Testing
 #### Download pre-trained weights:
 We used pre-trained weights of I3D trained on kinetics400 to start training. The weights are provided by Meta and can be downloaded:
 ```sh
