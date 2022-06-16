@@ -45,7 +45,7 @@ python tools/run_net.py --cfg ../experiments/I3D/configs/test/R50_hands_obj_32x4
 You can ask questions by openning up an issue. Thank you!
 
 
-
+## Citation
 ```
 @INPROCEEDINGS{9767447,
   author={Shahi, Soroush and Alharbi, Rawan and Gao, Yang and Sen, Sougata and Katsaggelos, Aggelos K and Hester, Josiah and Alshurafa, Nabil},
