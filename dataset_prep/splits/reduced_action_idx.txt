@@ -1,0 +1,86 @@
+Take eating_utensil 1
+Cut tomato 2
+Put eating_utensil 3
+Take condiment_container 4
+Cut cucumber 5
+Cut carrot 6
+Put condiment_container 7
+Cut onion 8
+Take plate 9
+Take bowl 10
+Put bowl 11
+Put trash,trash_container 12
+Put plate 13
+Cut bell_pepper 14
+Take paper_towel 15
+Move Around bacon 16
+Open condiment_container 17
+Wash eating_utensil 18
+Spread condiment,bread,eating_utensil 19
+Put pan 20
+Put lettuce 21
+Move Around patty 22
+Put pot 23
+Put bread 24
+Take bread 25
+Close condiment_container 26
+Wash hand 27
+Put tomato 28
+Take seasoning_container 29
+Take cup 30
+Divide/Pull Apart lettuce 31
+Put cup 32
+Take pot 33
+Take bread_container 34
+Take tomato 35
+Take pan 36
+Move Around pan 37
+Wash cutting_board 38
+Put bread_container 39
+Take sponge 40
+Take lettuce 41
+Take onion 42
+Put sponge 43
+Divide/Pull Apart paper_towel 44
+Take cheese_container 45
+Take oil_container 46
+Put seasoning_container 47
+Take cucumber 48
+Wash pan 49
+Take bell_pepper 50
+Divide/Pull Apart onion 51
+Put cutting_board 52
+Mix mixture,eating_utensil 53
+Take tomato_container 54
+Put cheese 55
+Move Around eating_utensil 56
+Put bell_pepper 57
+Pour oil,oil_container,pan 58
+Take pasta_container 59
+Cut lettuce 60
+Put tomato_container 61
+Wash bowl 62
+Cut olive 63
+Pour condiment,condiment_container,salad 64
+Wash pot 65
+Open bread_container 66
+Take grocery_bag 67
+Take cheese 68
+Pour seasoning,seasoning_container,salad 69
+Put paper_towel 70
+Put cucumber 71
+Compress sandwich 72
+Put cheese_container 73
+Put onion 74
+Crack egg 75
+Take cutting_board 76
+Open oil_container 77
+Squeeze washing_liquid,sponge 78
+Wash strainer 79
+Move Around bowl 80
+Move Around pot 81
+Put grocery_bag 82
+Take egg 83
+Open cheese_container 84
+Close oil_container 85
+Put oil_container 86
