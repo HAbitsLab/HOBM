@@ -7,7 +7,7 @@ cd HOBM
 git submodule init
 git submodule update
 ```
-This repository uses SlowFast library by Meta but don't get confused. It supports I3D architecture which we used in this paper. Go ahead and follow the [guides](https://github.com/facebookresearch/SlowFast) to install SlowFast on your machine.
+This repository uses SlowFast library by Meta but don't get confused. The library contains I3D implementation which we used in this paper. Go ahead and follow the [guides](https://github.com/facebookresearch/SlowFast) to install SlowFast on your machine.
 
 ## Dataset Preparation
 #### Download and generate obfuscated frames
