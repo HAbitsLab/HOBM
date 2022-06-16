@@ -41,3 +41,8 @@ python tools/run_net.py --cfg ../experiments/I3D/configs/train/R50_hands_obj_32x
 python tools/run_net.py --cfg ../experiments/I3D/configs/test/R50_raw_32x4.yaml NUM_GPUS 1
 python tools/run_net.py --cfg ../experiments/I3D/configs/test/R50_hands_obj_32x4.yaml NUM_GPUS 1
 ```
+
+You can ask questions by openning up an issue. Thank you!
+
+
+ 
