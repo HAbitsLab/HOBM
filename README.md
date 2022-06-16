@@ -20,7 +20,7 @@ This downloads the EGTEA Gaze+ dataset and extracts the frames from video clips.
 #### Interpolation
 For those frames where the hand is not visible, the obfuscated image is basically a black frame. To account for this, we replaced these frames by interpolation. Refer to `interpolate.py` for more information.
 
-#### splits
+#### Splits
 We removed some of the classes that didn't deal with objects in hand (e.g., fridge) and merged similar ones. Use the splits that we provided located at 'dataset_prep/splits'
 
 ## Training and Testing
