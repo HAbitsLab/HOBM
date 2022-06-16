@@ -1,4 +1,4 @@
-# HOBM
+# Hand-object-based Mask Obfuscation
 This is the code repository for the paper [_Impacts of Image Obfuscation on Fine-grained Activity Recognition in Egocentric Video_](https://ieeexplore.ieee.org/abstract/document/9767447)
 ## Installation
 ```sh
