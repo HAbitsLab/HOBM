@@ -16,7 +16,7 @@ Download the dataset (make sure you set the right path for $DESTDIR in the bash 
 cd dataset_scripts/dataset_prep
 . build.sh
 ```
-This downloads the EGTEA Gaze+ dataset and extracts the frames from video clips. We also provided the hand+object masks for this dataset in numpy files. Then it generates the obfuscated jpg images using the numpy files. Depending on your internet connection speed, the download process might take some time. I'm planning to speed up the other steps by doing things in parallel. 
+This downloads the EGTEA Gaze+ dataset and extracts the frames from video clips. We provided the hand+object masks for this dataset in numpy files. It generates the obfuscated jpg images using the numpy files. Depending on your internet connection speed, the download process might take some time. I'm planning to speed up the other steps by doing things in parallel. 
 #### Interpolation
 For those frames where the hand is not visible, the obfuscated image is basically a black frame. To account for this, we replaced these frames by interpolation. Refer to `interpolate.py` for more information.
 
