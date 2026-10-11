@@ -13,8 +13,8 @@ This repository uses SlowFast library by Meta but don't get confused. The librar
 #### Download and generate obfuscated frames
 Download the dataset (make sure you set the right path for $DESTDIR in the bash file):
 ```sh
-cd dataset_scripts/dataset_prep
-. build.sh
+cd dataset_prep
+. ./build.sh
 ```
 This downloads the EGTEA Gaze+ dataset and extracts the frames from video clips. We provided the hand+object masks for this dataset in numpy files. It generates the obfuscated jpg images using the numpy files. Depending on your internet connection speed, the download process might take some time. I'm planning to speed up the other steps by doing things in parallel. 
 #### Interpolation
